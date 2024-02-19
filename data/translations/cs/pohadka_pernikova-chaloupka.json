@@ -1,0 +1,114 @@
+[
+    {
+        "main": "Once upon a time there was a father who lived with his daughter Maria and son Tommy.",
+        "uk": "एक बार की बात है, एक पिता अपनी बेटी मारिया और बेटे टॉमी के साथ रहता था।",
+        "start_cs": 0,
+        "end_cs": 4.5,
+        "start_uk": 0,
+        "end_uk": 4.0
+    },
+    {
+        "main": "They lived in a cottage in the middle of the forest.",
+        "uk": "वे जंगल के बीच में एक झोपड़ी में रहते थे।",
+        "start_cs": 4.5,
+        "end_cs": 7.0,
+        "start_uk": 4.0,
+        "end_uk": 14.0
+    },
+    {
+        "main": "Dad worked as a woodcutter and the children often went to the forest with him when dad was working.",
+        "uk": "पिताजी लकड़हारे का काम करते थे और जब पिताजी काम करते थे तो बच्चे अक्सर उनके साथ जंगल जाते थे।",
+        "start_cs": 7.0,
+        "end_cs": 13.0,
+        "start_uk": 14.0,
+        "end_uk": 14.0
+    },
+    {
+        "main": "While he cut down the trees, the children played in the forest and ate wild strawberries and blueberries.",
+        "uk": "जब वह पेड़ काटता था, तो बच्चे जंगल में खेलते थे और जंगली स्ट्रॉबेरी और ब्लूबेरी खाते थे।",
+        "start_cs": 7.0,
+        "end_cs": 20.0,
+        "start_uk": 20.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "One day they wandered too far and could not find their way home.",
+        "uk": "एक दिन वे बहुत दूर तक भटक गए और उन्हें घर जाने का रास्ता नहीं मिला।",
+        "start_cs": 20.0,
+        "end_cs": 24.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "They wandered through the forest, called daddy, cried. They searched, but could not find.",
+        "uk": "वे जंगल में घूमते रहे, डैडी को बुलाया, रोये। उन्होंने तलाश की, लेकिन नहीं मिले।",
+        "start_cs": 24.0,
+        "end_cs": 24.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "As darkness fell, Tommy climbed a tree and looked around the forest.",
+        "uk": "जैसे ही अंधेरा हुआ, टॉमी एक पेड़ पर चढ़ गया और जंगल के चारों ओर देखने लगा।",
+        "start_cs": 24.0,
+        "end_cs": 35.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "He saw a light in the distance. \"That must be our cottage!\" he called to Maria.",
+        "uk": "उसे दूर पर एक रोशनी दिखाई दी। \"वह हमारी कुटिया होगी!\" उसने मारिया को बुलाया।",
+        "start_cs": 35.0,
+        "end_cs": 40.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "The children followed the light and soon reached the cottage.",
+        "uk": "बच्चे रोशनी का पीछा करते हुए जल्द ही झोपड़ी तक पहुंच गए।",
+        "start_cs": 40.0,
+        "end_cs": 44.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "However, it was not their cottage. This one was all gingerbread.",
+        "uk": "हालाँकि, यह उनकी कुटिया नहीं थी। यह सब जिंजरब्रेड था।",
+        "start_cs": 44.0,
+        "end_cs": 48.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "The children rejoiced! They were already hungry, so they carefully took a piece of gingerbread from the cottage.",
+        "uk": "बच्चे ख़ुश हुए! वे पहले से ही भूखे थे, इसलिए उन्होंने ध्यान से कुटिया से जिंजरब्रेड का एक टुकड़ा लिया।",
+        "start_cs": 48.0,
+        "end_cs": 55.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "Suddenly the door opened with a bang. The children were frightened.",
+        "uk": "अचानक दरवाज़ा धड़ाम से खुला. बच्चे डरे हुए थे.",
+        "start_cs": 55.0,
+        "end_cs": 59.0,
+        "start_uk": 59.0,
+        "end_uk": 59.0
+    },
+    {
+        "main": "A grandma shuffled out of the cottage. She invited the children to the cottage, offered them food and a place to sleep.",
+        "uk": "एक दादी झोपड़ी से बाहर चली गईं। उसने बच्चों को कुटिया में आमंत्रित किया, उन्हें भोजन और सोने के लिए जगह दी।",
+        "start_cs": 59.0,
+        "end_cs": 66.0,
+        "start_uk": 59.0,
+        "end_uk": 75.0
+    },
+    {
+        "main": "But she wasn't a good grandmother, she was an evil witch.",
+        "uk": "लेकिन वह एक अच्छी दादी नहीं थी, वह एक दुष्ट चुड़ैल थी।",
+        "start_cs": 66.0,
+        "end_cs": 71.0,
+        "start_uk": 75.0,
+        "end_uk": 78.0
+    }
+]

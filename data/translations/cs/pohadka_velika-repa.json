@@ -1,0 +1,114 @@
+[
+    {
+        "main": "A grandfather, a grandmother and their granddaughter lived together in the cottage.",
+        "uk": "एक दादा, एक दादी और उनकी पोती एक साथ कुटिया में रहते थे।",
+        "start_cs": 0,
+        "end_cs": 4.0,
+        "start_uk": 0,
+        "end_uk": 3.0
+    },
+    {
+        "main": "They had a small field and several animals - geese, rabbits, chickens, a dog, a cat and a mouse.",
+        "uk": "उनके पास एक छोटा सा मैदान और कई जानवर थे - हंस, खरगोश, मुर्गियाँ, एक कुत्ता, एक बिल्ली और एक चूहा।",
+        "start_cs": 4.0,
+        "end_cs": 11.0,
+        "start_uk": 3.0,
+        "end_uk": 11.0
+    },
+    {
+        "main": "One day the grandfather went to the field, made a hole and planted a turnip in it.",
+        "uk": "एक दिन दादाजी खेत में गए, एक गड्ढा बनाया और उसमें शलजम लगाया।",
+        "start_cs": 11.0,
+        "end_cs": 17.0,
+        "start_uk": 11.0,
+        "end_uk": 16.0
+    },
+    {
+        "main": "He took good care of it and watered it.",
+        "uk": "उसने उसकी अच्छी देखभाल की और उसे पानी पिलाया।",
+        "start_cs": 17.0,
+        "end_cs": 20.0,
+        "start_uk": 16.0,
+        "end_uk": 16.0
+    },
+    {
+        "main": "The turnip grew quickly. When it grew as big as half a field, it had to be pulled out.",
+        "uk": "शलजम तेजी से बढ़ा। जब वह आधे खेत जितना बड़ा हो गया तो उसे बाहर निकालना पड़ा।",
+        "start_cs": 20.0,
+        "end_cs": 25.0,
+        "start_uk": 16.0,
+        "end_uk": 16.0
+    },
+    {
+        "main": "Grandfather tried it himself at first. He grabbed the turnip. He pulled, pulled, but he didn't pull her out.",
+        "uk": "सबसे पहले दादाजी ने स्वयं इसे आजमाया। उसने शलजम पकड़ लिया। उसने खींचा, खींचा, लेकिन उसने उसे बाहर नहीं निकाला।",
+        "start_cs": 25.0,
+        "end_cs": 32.0,
+        "start_uk": 16.0,
+        "end_uk": 36.0
+    },
+    {
+        "main": "He called his grandmother for help. Grandma grabbed grandpa, and grandpa grabbed a turnip. They pulled, they pulled, but they didn't pull out the turnip.",
+        "uk": "उसने मदद के लिए अपनी दादी को बुलाया। दादी ने दादाजी को पकड़ लिया, और दादाजी ने शलजम पकड़ लिया। उन्होंने खींचा, उन्होंने खींचा, लेकिन उन्होंने शलजम को बाहर नहीं निकाला।",
+        "start_cs": 32.0,
+        "end_cs": 38.0,
+        "start_uk": 36.0,
+        "end_uk": 48.0
+    },
+    {
+        "main": "The grandmother called her granddaughter. The granddaughter grabbed the grandmother, the grandmother grabbed the grandfather, and the grandfather grabbed the turnip. They pulled, they pulled, but they didn't pull out the turnip.",
+        "uk": "दादी ने अपनी पोती को बुलाया. पोती ने दादी को पकड़ लिया, दादी ने दादा को पकड़ लिया, और दादा ने शलजम को पकड़ लिया। उन्होंने खींचा, उन्होंने खींचा, लेकिन उन्होंने शलजम को बाहर नहीं निकाला।",
+        "start_cs": 38.0,
+        "end_cs": 42.0,
+        "start_uk": 48.0,
+        "end_uk": 62.0
+    },
+    {
+        "main": "The granddaughter called the dog. The dog grabbed the granddaughter, the granddaughter of the grandmother, the grandmother of the grandfather and the grandfather of the beet. They pulled, they pulled, but they couldn't pull the turnip out.",
+        "uk": "पोती ने कुत्ते को बुलाया. कुत्ते ने पोती को, दादी की पोती को, दादा की दादी को और चुकंदर के दादा को पकड़ लिया। उन्होंने खींचा, उन्होंने खींचा, लेकिन वे शलजम को बाहर नहीं खींच सके।",
+        "start_cs": 42.0,
+        "end_cs": 70.0,
+        "start_uk": 62.0,
+        "end_uk": 75.0
+    },
+    {
+        "main": "The dog called the cat. The cat was caught by the dog, the dog by the granddaughter, the granddaughter by the grandmother, the grandmother by the grandfather and the grandfather by the turnip. They pulled, they pulled, but they didn't pull out the turnip.",
+        "uk": "कुत्ते ने बिल्ली को बुलाया. बिल्ली को कुत्ते ने पकड़ा, कुत्ते को पोती ने, पोती को दादी ने, दादी को दादा ने और दादा ने शलजम को पकड़ा। उन्होंने खींचा, उन्होंने खींचा, लेकिन उन्होंने शलजम को बाहर नहीं निकाला।",
+        "start_cs": 70.0,
+        "end_cs": 86.0,
+        "start_uk": 75.0,
+        "end_uk": 75.0
+    },
+    {
+        "main": "The cat called the mouse. The mouse caught the cat, the cat the dog, the dog the granddaughter, the granddaughter the grandmother, the grandmother the grandfather and the grandfather a beet. They pulled, pulled - and suddenly the turnip was out!",
+        "uk": "बिल्ली ने चूहे को बुलाया. चूहे ने बिल्ली को पकड़ लिया, बिल्ली ने कुत्ते को, कुत्ते ने पोती को, पोती ने दादी को, दादी ने दादा को और दादा ने चुकन्दर को पकड़ लिया। उन्होंने खींचा, खींचा - और अचानक शलजम बाहर आ गया!",
+        "start_cs": 86.0,
+        "end_cs": 86.0,
+        "start_uk": 75.0,
+        "end_uk": 75.0
+    },
+    {
+        "main": "They all fell into one heap. Beet to grandfather, grandfather to grandmother, grandmother to granddaughter, granddaughter to dog, dog to cat and cat to the ground.",
+        "uk": "वे सभी एक ढेर में गिर गये। चुकंदर दादा को, दादा दादी को, दादी पोती को, पोती कुत्ते को, कुत्ता बिल्ली को और बिल्ली ज़मीन को।",
+        "start_cs": 86.0,
+        "end_cs": 114.0,
+        "start_uk": 75.0,
+        "end_uk": 84.0
+    },
+    {
+        "main": "The mouse managed to quickly run away and hide.",
+        "uk": "चूहा जल्दी से भागने और छिपने में कामयाब रहा।",
+        "start_cs": 114.0,
+        "end_cs": 117.0,
+        "start_uk": 84.0,
+        "end_uk": 117.0
+    },
+    {
+        "main": "Only a large pit remained in the turnip field. Everyone was happy to help Grandpa pull out the turnip.",
+        "uk": "शलजम के खेत में केवल एक बड़ा गड्ढा रह गया था। दादाजी को शलजम बाहर निकालने में मदद करके हर कोई खुश था।",
+        "start_cs": 117.0,
+        "end_cs": 123.0,
+        "start_uk": 117.0,
+        "end_uk": 121.0
+    }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "main": "Once upon a time there was a little girl who lived with her mother at the edge of the forest. Her name was Little Red Riding Hood.",
+    "uk": "एक बार की बात है, एक छोटी लड़की अपनी माँ के साथ जंगल के किनारे रहती थी. उसका नाम लिटिल रेड राइडिंग हूड था.",
+    "start_cs": 0,
+    "end_cs": 6.96,
+    "start_uk": 0,
+    "end_uk": 7.320
+  },
+  {
+    "main": "One day mommy said, 'Little Red, grandma has a holiday today. Go visit her. But be careful - a wolf lives in the forest!'",
+    "uk": "एक दिन माँ ने कहा, 'लिटिल रेड, दादी की आज छुट्टी है. उनसे मिलने जाओ. लेकिन सावधान रहना - जंगल में एक भेड़िया रहता है!'",
+    "start_cs": 7.73,
+    "end_cs": 16.483,
+    "start_uk": 8.199,
+    "end_uk": 17.350
+  },
+  {
+    "main": "Little Red Riding Hood packed a cake and a flower in her basket, said goodbye to her mother and set off on her way.    ",
+    "uk": "लिटिल रेड राइडिंग हूड ने अपनी टोकरी में एक केक और एक फूल पैक किया, अपनी माँ को अलविदा कहा और अपने रास्ते पर चल पड़ी.",
+    "start_cs": 17.53,
+    "end_cs": 27.7055,
+    "start_uk": 35.2705,
+    "end_uk": 43.208
+  },
+  {
+    "main": "वह जंगल में घूम रही थी तभी अचानक एक बड़ा भेड़िया लिटिल रेड के सामने आ खड़ा हुआ. 'आप कहां जा रहे हैं?'",
+    "uk": "वह जंगल में घूम रही थी तभी अचानक एक बड़ा भेड़िया लिटिल रेड के सामने आ खड़ा हुआ. 'आप कहां जा रहे हैं?'",
+    "start_cs": 24.6205,
+    "end_cs": 30.61,
+    "start_uk": 18.079,
+    "end_uk": 32.098
+  },
+  {
+    "main": "Little Red Riding Hood said to the wolf, 'I'm going to see grandma, it's a holiday today. I'm carrying her a cake.'",
+    "uk": "लिटिल रेड राइडिंग हूड ने भेड़िये से कहा, 'मैं दादी से मिलने जा रहा हूं, आज छुट्टी है. मैं उसके लिए केक लेकर जा रहा हूं.'",
+    "start_cs": 31.2705,
+    "end_cs": 38.168,
+    "start_uk": 32.840,
+    "end_uk": 40.279
+  },
+  {
+    "main": "The wolf turned and ran back into the forest. And through the forest straight to grandma's cottage.",
+    "uk": "भेड़िया मुड़ा और वापस जंगल में भाग गया. और जंगल से होते हुए सीधे दादी की कुटिया तक.",
+    "start_cs": 39.38,
+    "end_cs": 44.7705,
+    "start_uk": 42.000,
+    "end_uk": 47.270
+  },
+  {
+    "main": "He knocked on the door and the grandmother called from the cottage, 'Who's there?'",
+    "uk": "उसने दरवाज़ा खटखटाया और झोपड़ी से एक दादी ने आवाज़ दी, 'वहाँ कौन है?'",
+    "start_cs": 45.45,
+    "end_cs": 49.7455,
+    "start_uk": 48.080,
+    "end_uk": 51.729
+  },
+  {
+    "main": "'It's me, Little Red Riding Hood,' called the wolf in a small voice.",
+    "uk": "'यह मैं हूं, लिटिल रेड राइडिंग हूड,' भेड़िया ने धीमी आवाज में कहा.",
+    "start_cs": 50.77,
+    "end_cs": 54.599,
+    "start_uk": 53.540,
+    "end_uk": 60.540
+  },
+  {
+    "main": "'Then come on, Little Red, it's open,' said the grandmother.",
+    "uk": "'तो फिर आओ, लिटिल रेड, यह खुला है,' दादी ने कहा.",
+    "start_cs": 55.380,
+    "end_cs": 58.689,
+    "start_uk": 60.740,
+    "end_uk": 65.919
+  },
+  {
+    "main": "The wolf jumped into the small room and ate the grandmother.",
+    "uk": "भेड़िया छोटे से कमरे में कूद गया और दादी को खा गया.",
+    "start_cs": 59.740,
+    "end_cs": 62.759,
+    "start_uk": 62.939,
+    "end_uk": 65.919
+  },
+  {
+    "main": "He crawled into his grandmother's bed, put on her glasses and waited for Little Red.",
+    "uk": "वह अपनी दादी के बिस्तर में रेंग गया, उनका चश्मा लगाया और लिटिल रेड का इंतजार करने लगा.",
+    "start_cs": 63.819,
+    "end_cs": 68.400,
+    "start_uk": 66.639,
+    "end_uk": 72.029
+  },
+  {
+    "main": "When Little Red Riding Hood came, she was surprised and asks 'Grandma, why do you have such big ears?'",
+    "uk": "जब लिटिल रेड राइडिंग हूड आई तो वह आश्चर्यचकित रह गई और पूछा 'दादी, आपके इतने बड़े कान क्यों हैं?'",
+    "start_cs": 69.370,
+    "end_cs": 75.458,
+    "start_uk": 72.900,
+    "end_uk": 79.209
+  },
+  {
+    "main": "'To hear you better,' said the wolf in a high voice.",
+    "uk": "'तुम्हें बेहतर ढंग से सुनने के लिए,' भेड़िये ने ऊँची आवाज़ में कहा.",
+    "start_cs": 76.349,
+    "end_cs": 79.255,
+    "start_uk": 80.199,
+    "end_uk": 85
+  },
+
+  {
+    "main": "'Why do you have such big eyes?'' - 'To see you better.'",
+    "uk": "'तुम्हारे पास इतनी बड़ी आँखें क्यों हैं?' - 'तुम्हें बेहतर तरीके से देखने के लिए.'",
+    "start_cs": 79.9455,
+    "end_cs": 82.9355,
+    "start_uk": 85,
+    "end_uk": 88.699
+  },
+  {
+    "main": "'Why do you have such big teeth?' - 'So that I can eat you better!' -- and the wolf ate her too.    ",
+    "uk": "'तुम्हारे इतने बड़े दाँत क्यों हैं?' - 'ताकि मैं तुम्हें अच्छे से खा सकूं!' - और भेड़िये ने उसे भी खा लिया.",
+    "start_cs": 84.05,
+    "end_cs": 89.7955,
+    "start_uk": 89.620,
+    "end_uk": 96.250
+  },
+  {
+    "main": "Fainted by the large meal, the wolf fell asleep. And how he snored!",
+    "uk": "भरपेट भोजन से बेहोश होकर भेड़िया सो गया. और उसने कैसे खर्राटे लिए!",
+    "start_cs": 90.669,
+    "end_cs": 95.290,
+    "start_uk": 97.129,
+    "end_uk": 102.129
+  },
+  {
+    "main": "The sound of the snoring brought the hunter to the cottage.",
+    "uk": "खर्राटों की आवाज़ शिकारी को कुटिया में ले आई.",
+    "start_cs": 96.129,
+    "end_cs": 98.839,
+    "start_uk": 103.010,
+    "end_uk": 105.809
+  },
+  {
+    "main": "He saved Grandma and Little Red from the wolf's belly. Then he filled it with stones.",
+    "uk": "उसने दादी और लिटिल रेड को भेड़िये के पेट से बचाया. फिर उसने उसे पत्थरों से भर दिया.",
+    "start_cs": 100.98,
+    "end_cs": 104.37,
+    "start_uk": 106.650,
+    "end_uk": 112.319
+  },
+  {
+    "main": "The wolf woke up and was very thirsty.    ",
+    "uk": "भेड़िया जाग गया और बहुत प्यासा था.",
+    "start_cs": 104.86,
+    "end_cs": 107.04,
+    "start_uk": 113.669,
+    "end_uk": 117.830
+  },
+  {
+    "main": "He crawled to the well, the heavy stones weighing him down, and he never climbed out of the well again.",
+    "uk": "वह रेंगते हुए कुएं तक गया, भारी पत्थरों ने उस पर दबाव डाला और वह फिर कभी कुएं से बाहर नहीं निकला.",
+    "start_cs": 108.019,
+    "end_cs": 113.809,
+    "start_uk": 118.069,
+    "end_uk": 122.18
+  }
+]

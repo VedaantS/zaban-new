@@ -1,0 +1,38 @@
+{  
+  "good": [    
+    {
+      "main": "Good job!",
+      "uk": "सही है!"
+    },
+    {
+      "main": "Well done!",
+      "uk": "वाह!"
+    },
+    {
+      "main": "Nice!",
+      "uk": "शाबाश!"
+    }
+  ],
+  "wrong": [
+    {
+      "main": "Oh well.",
+      "uk": "ग़लत"
+    },
+    {
+      "main": "Try again.",
+      "uk": "फिरसे चुनिए."
+    }
+  ],
+  "newGame": [
+    {
+      "main": "New game.",
+      "uk": "नया गेम."
+    }
+  ],
+  "win": [
+    {
+      "main": "You win!",
+      "uk": "जीत गये तुम!"
+    }
+  ]
+}

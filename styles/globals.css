@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: 'Roboto', 'Source Sans Pro';
+  scroll-margin: 116px 0 0 0;
+}
+
+h1 {
+  font-weight: 700;
+  line-height: 40px;
+  font-size: 32px;
+  margin: 1rem 0;
+}
+
+h2 {
+  font-weight: 700;
+  line-height: 36px;
+  font-size: 28px;
+  margin: 1rem 0;
+}
+
+@media screen and (max-width: 640px) {
+  h1 {
+    font-weight: 700;
+    line-height: 30px;
+    font-size: 24px;
+    margin: 0.5rem 0;
+  }
+  h2 {
+    font-weight: 700;
+    line-height: 26px;
+    font-size: 20px;
+    margin: 1rem 0;
+  }
+}
+
+.homepage-box {
+  position: relative;
+}
+
+.homepage-box a:after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+/* Removes white space under an image. */
+
+.logo span {
+  display: block !important;
+}
+
+.tap-transparent {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.button-shadow {
+  box-shadow: 3px 3px 6px 0px #0000003d;
+}
+
+/* Custom Scrollbar */
+.movapp-kiosk-scrollbar::-webkit-scrollbar {
+  width: 30px;
+}
+
+/* Track */
+.movapp-kiosk-scrollbar::-webkit-scrollbar-track {
+  background: #b9dcff;
+  border-radius: 50px;
+}
+
+/* Handle */
+.movapp-kiosk-scrollbar::-webkit-scrollbar-thumb {
+  background: #295f95;
+  border-radius: 50px;
+  height: 150px;
+}
+
+/* Handle on hover */
+.movapp-kiosk-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #295f95;
+}
+
+.card-overlay.uk {
+  background: rgba(255, 247, 212, 0.5);
+}
+.card-overlay.cz {
+  background: rgba(255, 225, 222, 0.5);
+}

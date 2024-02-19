@@ -1,0 +1,154 @@
+[
+  {
+      "main": "Grandpa asked grandma to bake a donut.",
+      "uk": "दादाजी ने दादी से डोनट बनाने को कहा।",
+      "start_cs": 0,
+      "end_cs": 0,
+      "start_uk": 0,
+      "end_uk": 1.0
+  },
+  {
+      "main": "Grandma found flour, mixed the dough and baked a donut.",
+      "uk": "दादी ने आटा ढूंढा, आटा मिलाया और डोनट पकाया।",
+      "start_cs": 0,
+      "end_cs": 0,
+      "start_uk": 1.0,
+      "end_uk": 6.0
+  },
+  {
+      "main": "She took it out of the oven and placed it on the window to cool.",
+      "uk": "उसने उसे ओवन से निकाला और ठंडा होने के लिए खिड़की पर रख दिया।",
+      "start_cs": 0,
+      "end_cs": 0,
+      "start_uk": 6.0,
+      "end_uk": 10.0
+  },
+  {
+      "main": "The donut lay and lay on the window, and then he jumped down and rolled down the path.",
+      "uk": "डोनट लेट गया और खिड़की पर लेट गया, और फिर वह नीचे कूद गया और रास्ते पर लुढ़क गया।",
+      "start_cs": 0,
+      "end_cs": 16.0,
+      "start_uk": 10.0,
+      "end_uk": 15.0
+  },
+  {
+      "main": "He's rolling down the path when a bunny is standing in front of him. And the bunny says says he will eat the donut.",
+      "uk": "वह रास्ते पर लुढ़क रहा है तभी एक खरगोश उसके सामने खड़ा है। और बन्नी कहता है कि वह डोनट खाएगा।",
+      "start_cs": 16.0,
+      "end_cs": 16.0,
+      "start_uk": 15.0,
+      "end_uk": 15.0
+  },
+  {
+      "main": "The donut asked the bunny not to eat him and instead sang him a song and ran away.",
+      "uk": "डोनट ने बन्नी से उसे न खाने के लिए कहा और इसके बजाय उसके लिए एक गाना गाया और भाग गया।",
+      "start_cs": 16.0,
+      "end_cs": 30.0,
+      "start_uk": 15.0,
+      "end_uk": 29.0
+  },
+  {
+      "main": "The donut rolls along the path when a wolf stands in front of it. And he also says that he will eat him.",
+      "uk": "जब एक भेड़िया उसके सामने खड़ा होता है तो डोनट रास्ते पर लुढ़कता है। और ये भी कहता है कि वो उसे खा जायेगा.",
+      "start_cs": 30.0,
+      "end_cs": 37.0,
+      "start_uk": 29.0,
+      "end_uk": 29.0
+  },
+  {
+      "main": "Donut begged the wolf not to eat him and offered to sing him a song.",
+      "uk": "डोनट ने भेड़िये से उसे न खाने की विनती की और उसे एक गाना गाने की पेशकश की।",
+      "start_cs": 37.0,
+      "end_cs": 43.0,
+      "start_uk": 29.0,
+      "end_uk": 42.0
+  },
+  {
+      "main": "The wolf agreed and the donut, while singing his song, ran away.",
+      "uk": "भेड़िया सहमत हो गया और डोनट अपना गाना गाते हुए भाग गया।",
+      "start_cs": 43.0,
+      "end_cs": 48.0,
+      "start_uk": 42.0,
+      "end_uk": 42.0
+  },
+  {
+      "main": "The donut rolls along the path when a bear stands in front of it. And also promises to eat him.",
+      "uk": "जब एक भालू उसके सामने खड़ा होता है तो डोनट रास्ते पर लुढ़क जाता है। और उसे खाने का वादा भी करता है.",
+      "start_cs": 48.0,
+      "end_cs": 55.0,
+      "start_uk": 42.0,
+      "end_uk": 42.0
+  },
+  {
+      "main": "But the donut asked the bear not to eat it and instead listen to a song about the donut's adventure.",
+      "uk": "लेकिन डोनट ने भालू से उसे न खाने और डोनट के साहसिक कार्य के बारे में एक गाना सुनने के लिए कहा।",
+      "start_cs": 55.0,
+      "end_cs": 62.0,
+      "start_uk": 42.0,
+      "end_uk": 42.0
+  },
+  {
+      "main": "And again, while the donut was singing, he managed to escape the bear.",
+      "uk": "और फिर, जब डोनट गा रहा था, वह भालू से बचने में कामयाब रहा।",
+      "start_cs": 62.0,
+      "end_cs": 67.0,
+      "start_uk": 42.0,
+      "end_uk": 68.0
+  },
+  {
+      "main": "And so the donut continued to roll down the path when a fox stood in front of it. She wants to enjoy a donut too.",
+      "uk": "और इस तरह डोनट रास्ते पर लुढ़कता रहा जब एक लोमड़ी उसके सामने खड़ी हो गई। वह डोनट का भी आनंद लेना चाहती है।",
+      "start_cs": 67.0,
+      "end_cs": 75.0,
+      "start_uk": 68.0,
+      "end_uk": 73.0
+  },
+  {
+      "main": "But the donut again - he begs her not to eat it and listen to a song instead.",
+      "uk": "लेकिन डोनट फिर से - वह उससे विनती करता है कि वह इसे न खाए और इसके बजाय एक गाना सुने।",
+      "start_cs": 75.0,
+      "end_cs": 75.0,
+      "start_uk": 73.0,
+      "end_uk": 79.0
+  },
+  {
+      "main": "The fox agreed, so the donut started singing again.",
+      "uk": "लोमड़ी सहमत हो गई, इसलिए डोनट ने फिर से गाना शुरू कर दिया।",
+      "start_cs": 75.0,
+      "end_cs": 85.0,
+      "start_uk": 79.0,
+      "end_uk": 84.0
+  },
+  {
+      "main": "But when the song was over, the fox asked him to sing again the beautiful song that she liked so much.",
+      "uk": "लेकिन जब गाना ख़त्म हुआ तो लोमड़ी ने उससे वह खूबसूरत गाना दोबारा गाने के लिए कहा जो उसे बहुत पसंद था।",
+      "start_cs": 85.0,
+      "end_cs": 91.0,
+      "start_uk": 84.0,
+      "end_uk": 90.0
+  },
+  {
+      "main": "But she complained that she couldn't hear, and asked the donut to sit on her tongue so she could hear him better.",
+      "uk": "लेकिन उसने शिकायत की कि वह सुन नहीं सकती, और उसने डोनट को अपनी जीभ पर बैठने के लिए कहा ताकि वह उसे बेहतर ढंग से सुन सके।",
+      "start_cs": 91.0,
+      "end_cs": 91.0,
+      "start_uk": 90.0,
+      "end_uk": 98.0
+  },
+  {
+      "main": "Donut happily jumped on the fox's tongue and began to sing...",
+      "uk": "डोनट ख़ुशी से लोमड़ी की जीभ पर कूद पड़ा और गाने लगा...",
+      "start_cs": 91.0,
+      "end_cs": 91.0,
+      "start_uk": 98.0,
+      "end_uk": 98.0
+  },
+  {
+      "main": "And the fox ate him!",
+      "uk": "और लोमड़ी ने उसे खा लिया!",
+      "start_cs": 91.0,
+      "end_cs": 91.0,
+      "start_uk": 98.0,
+      "end_uk": 98.0
+  }
+]

@@ -1,0 +1,281 @@
+{
+  "header": {
+    "vocabulary_link_name": "Vocabulary",
+    "forkids_link_name": "For Kids",
+    "forkids_words": "Words",
+    "forkids_stories": "Fairytales",
+    "forkids_memorygame": "BrainVita",
+    "forkids_imagequiz": "Image Quiz",
+    "wiki_link_name": "Wiki",
+    "exercises_link_name": "Exercises",
+    "about_link_name": "About Us",
+    "contacts_link_name": "Contacts",
+    "alphabet_link_name": "Alphabet"
+  },
+  "footer": {
+    "join_development": "Join development on",
+    "licence_intro": "The content of this website is accessible under license",
+    "licence": "CC BY-NC 4.0 International",
+    "feedback": "Did you find a bug or have a suggestion for improvement?",
+    "feedback_form_id": "shri0u388jKGhaRlz"
+  },
+  "homepage": {
+    "title": {
+      "cs": "Connecting millions of rural Indians to the rest of the world, one word at a time."
+    },
+    "box_dictionary_title": "Dictionary",
+    "box_dictionary_description": "Learn hundreds of basic words and phrases by reading and listening. We sort the words according to life situations.",
+    "box_child_title": "For Children",
+    "box_child_stories": "Fairytales - read and play English and Hindi fairy tales.",
+    "box_child_memorygame": {
+      "cs": "BrainVita - practice vocabulary in your favorite game."
+    },
+    "box_child_description": {
+      "cs": "Illustrated Hindi-English dictionary with dozens of printable cards."
+    },
+    "box_alphabet_title": {
+      "cs": "English alphabet"
+    },
+    "box_alphabet_description": {
+      "cs": "Learn the entire English alphabet. Sample words will help you."
+    },
+    "box_wiki_title": "Wiki",
+    "box_wiki_description": "A guide to English language study apps and other materials. Tutorials and learning tips.",
+    "box_movapp_title": "Zaban is...",
+    "box_movapp_description_top": {
+      "cs": "ज़बान [zaban] means language in Hindi and many other Persianate languages. Our goal is to give disadvantaged Indians the English skills necessary to succeed in an increasingly globalized world."
+    },
+    "box_movapp_description_bottom": {
+      "cs": "Here you will find an overview of basic communication phrases in English and Hindi. Soon we will add tools to practice them and a guide to learning materials."
+    },
+    "download_app": "Download to mobile",
+    "download_on": "Download on",
+    "languages": "Zaban speaks other languages"
+  },
+  "dictionary_page": {
+    "title": {
+      "cs": "English-Hindi dictionary"
+    },
+    "description": {
+      "cs": "Thousands of English-Hindi words and phrases. Browse them by category or use the search. Play the audio for pronunciation, the alphabet transcription will also help you."
+    },
+    "search_input_label": "Search for a word or phrase",
+    "search_button": "Search",
+    "search_placeholder": "Just enter a word from the search term",
+    "subtitle": "Choose an area",
+    "cs": "English",
+    "uk": "Hindi",
+    "results_subtitle": "Search Results",
+    "not_found_results": "Nothing found",
+    "download_pdf": "Download in PDF",
+    "first_exercise": "Exercise"
+  },
+  "kids_page": {
+    "downloadPDF": "Download in PDF",
+    "playStory": "Play and read the story",
+    "czechStories": "English folk tales",
+    "slovakStories": "Slovak Folk Tales",
+    "ukrainianStories": "Hindi folk tales",
+    "stories": "Fairytales",
+    "homepage": "Main Page",
+    "downloadStory": "You can <0>download the story as a PDF</0>."
+  },
+  "about_page": {
+    "title": "<strong>Zaban</strong> is the only language app designed specifically for rural Indians to learn English.",
+    "movapp_goal_title": "Our Goal",
+    "movapp_goal_description": {
+      "cs": "Our goal is to connect rural Hindi speakers throughout India to the rest of the world, by giving them the English skills to succeed. Traditional language-learning services like Duolingo are designed with an English-speaking audience in mind. So we decided to create a new service, one which would reach the millions of Indians who wish to learn English but can't."
+    },
+    "why_movapp_title": "Why Zaban?",
+    "why_movapp_mova": "<i>Zaban [ज़बान]</i> means <i>language</i> in Hindi. Zaban is a language training app.",
+    "why_movapp_description": "Zaban is available for free and is created as open software under the MIT license, which means you can not only use it for free, but also modify it (if you know how to program).",
+    "why_movapp_license": "Zaban texts, images and audio files are under the <0>CC BY-NC 4.0</0> license. (Cite Attribution-Non-Commercial 4.0), which means you can use them for your own purposes without any restrictions. If you would like to distribute them further (in their original or modified form), you can do so only in a non-commercial way and with credit to the original authors.",
+    "why_movapp_origin": "The original author of the <0>basic set of words and phrases</0> is Vedaant Srivastava. This set is maintained and further expanded by the Zaban team.",
+    "media_mentions_title": "They wrote about us",
+    "conferences_title": "Conferences and lectures",
+    "conferences_description": "Zaban.in presentation at the LHindi Conference at Lancaster University (Great Britain). <br/>- <0>1st LHindi Conference (22/07/2022)</0><br/>- <1> 4th LHindi Conference (13/01/2023)</1>",
+    "movapp_origin_title": "Origin of Zaban",
+    "movapp_origin_description": "Zaban was created in the fall of 2023 by a volunteer for Pratham India, India's largest not-for-profit education organization.",
+    "our_team_title": "Our Team",
+    "our_team_current_title": "Current Team",
+    "our_team_spring_title": "Spring 2022",
+    "our_team_autumn_title": "Autumn 2022",
+    "our_team_description": "The core members of the Zaban.in team are: Martin Hassman, Oleg Antonyak, Tatiana Chytilová, Petr Illek, Valeriia Kuna, Monika Fabryová, Juraj Uhlár, Bára Skálová, Tereza Javornická, Alena Burneleit, Anna Lamberová, Roman Žydyk, Martina Krejčí, Kateřina Strakošová, Martin Kluska, Václav Chlumský, Marek Mego, Eva Došková, Nikola Glatz, Silvia Potočná, Ondřej Málek, Martin Baránek, Anna Popelková, Nina Belyavskaya, Magdaléna Morong, Stanislava Dovhunová and Lenka Kolisnyk. And many other volunteers help them .",
+    "our_team_illustrators": "The authors of the illustrations for children are: Alena Burneleit, Anna Lamberová, Lucie Lomová, Kateřina Vacková Mňuková, Marie Kraus and Eva Hanzalová.",
+    "our_team_contact": "Do you want to help us with content or otherwise get involved?<br/>Are you looking for our <0>contact</0>?",
+    "stand_with_ukraine_title": "We stand with Ukraine",
+    "stand_with_ukraine_description": "<0>We stand for Ukraine</0> is an initiative of volunteers across organizations and associations. We are ordinary ordinary citizens who are not indifferent to the current situation related to the military conflict led by Russia against the sovereign democratic Ukraine. This initiative arose naturally, it grows from the long-term support of Ukraine after the annexation of Crimea, with the escalation of tensions, it became evident in the public space on February 19, 2022 and has been growing organically since then.",
+    "czech_digital_title": "Zaban",
+    "czech_digital_description": "<0>Zaban</0> is a community of expert volunteers from many fields, from IT to project management to marketing, who in their free time help the state and non-governmental organizations and thus change the English Republic for the better. Community English Republic .Digital was founded in 2019 by Jakub Nešetřil, Radka Horáková and Eva Pavlíková.",
+    "our_partners_title": "Our partners",
+    "how_to_find_us_title": "How to find us",
+    "how_to_find_us_description": "You can search for us using: <i>\"zaban\"</i>, <i>\"ज़बान\"</i> or <i>\"ज़ुबान\"</i> . If you write about us, use the name Zaban.",
+    "support_us_title": "Support Us",
+    "support_us_description": "- Tell Hindis around you (at work, school, or families living in your house) about us - you can print and give them these <0>posters.</0> <br/> - Follow us on social networks, see page <1>contacts</1>, and help us spread the word. <br/> - If you have more time (2 or more hours per week), you can join us. See what < We are looking for 2>volunteer positions</2>. You can contact us by <3>email</3> or on <4>Slack Česko.Digital.</4>",
+    "how_we_prepared_content_title": "How do we prepare learning language content?",
+    "how_we_prepared_content_description": "The content of Movapp is created by a number of volunteers, among whom are also language professionals. AI (artificial intelligence, e.g. <0>ChatGPT</0>) is also used in the creation of texts, but the texts are always checked by native speakers . Audio recordings are generated using <1>Azure Cognitive Services</1> and then checked by native speakers. Where computer synthesis shows flaws, we try to solve them. In some cases it is complicated and sometimes even impossible. Weaker support for Hindi in Azure Cognitive Services causes occasional misaccent and pronunciation of the Hindi consonant <i>\"g\"</i> as <i>\"h\"</i>. We are aware of this issue and are working on a solution. If it still happens, that you come across a bug (or suspect you've discovered a bug), contact us using our 'Found a bug or have a suggestion for improvement?' form at the bottom of our site. You too can contribute to improving Movapp. Thank you!"
+  },
+  "contacts_page": {
+    "title": "Contacts",
+    "email_contact_title": "Contact email:",
+    "email_contact_link": "vedaant@zaban.org",
+    "social_media": {
+      "social_media_title": "You can also find us on social networks:"
+    },
+    "community_description": "Zaban is created by Vedaant Srivastava",
+    "join_title": "Join",
+    "join_description": "Reach out to us if you want to work on development! (we communicate mainly in Hindi, Urdu, and English)."
+  },
+  "alphabet_page": {
+    "cs": {
+      "name": "English alphabet",
+      "description": "Learn the English alphabet. It consists of 26 letters, and is also known as the Latin alphabet."
+    },
+    "uk": {
+      "name": "Hindi Alphabet",
+      "description": "Learn the Hindi alphabet. Also called Hindi Devanagari, this script is actually considered an 'abugida'. Contains 46 characters."
+    },
+    "download": "You can <0>download the alphabet as a PDF</0>."
+  },
+  "seo": {
+    "homepage_page_title": {
+      "cs": "Zaban.in - to connect the world under one language"
+    },
+    "homepage_page_description": {
+      "cs": "Overview of basic English-Hindi phrases and tools for practicing them. Guide to learning materials. Created with love."
+    },
+    "dictionary_page_title": {
+      "cs": "Hindi-English dictionary | Zaban.in"
+    },
+    "dictionary_page_description": {
+      "cs": "Basic English-Hindi words and phrases divided according to life situations. Created with love."
+    },
+    "contacts_page_title": "Contacts | Zaban.in",
+    "contacts_page_description": "Do you want to become a team member and help in the further development of the project?",
+    "about_page_title": "About us | Zaban.in",
+    "about_page_description": "The project was created as part of the initiative We stand for Ukraine in the community of expert volunteers Česko.Digital.",
+    "alphabet_page_title": "Hindi alphabet (Devanagari) with sounds and examples",
+    "alphabet_page_description": "Learn the Hindi script. It is also called Hindi Devanagari or Hindi alphabet. It contains 33 characters and an apostrophe. We have spoken all the characters for you and added some examples so that you can learn them well.",
+    "kids_page_title": {
+      "cs": "Illustrated Hindi-English dictionary for children | Zaban.in"
+    },
+    "kids_page_description": {
+      "cs": "Pictures for children with Hindi and English captions. Narrated in English and Hindi. Print coloring pages for children."
+    },
+    "kids_page_storiesTitle": {
+      "cs": "Bilingual fairy tales in English and Hindi online."
+    },
+    "kids_page_storiesTitlePdf": {
+      "cs": "Read English and Hindi folk tales"
+    },
+    "kids_page_storiesDescription": {
+      "cs": "Listen and read Hindi fairy tales for children. Adapted bilingual fairy tales spoken for easy learning."
+    },
+    "kids_page_memorygame_title": {
+      "cs": "Play a talking BrainVita with Hindi and English words"
+    },
+    "kids_page_memorygame_description": {
+      "cs": "Hindi-English speaking BrainVita for children with illustrated pictures."
+    },
+    "kids_page_imagequiz_title": {
+      "cs": "Play a picture quiz with Hindi words"
+    },
+    "kids_page_imagequiz_description": {
+      "cs": "Play a picture quiz with Hindi words"
+    },
+    "exercise_page_title": {
+      "cs": "Practice your Hindi."
+    },
+    "exercise_page_description": {
+      "cs": "Improve your language level. We offer a free set of language learning exercises. Repeat every day."
+    }
+  },
+  "exercise_page": {
+    "game_description": "First choose one or more thematic areas and you're good to go.",
+    "play_the_game": "Start",
+    "select_all": "Select All",
+    "clear_all": "Clear selection",
+    "pick_random": "Pick at random",
+    "next": "Continue",
+    "congratulations": "Congratulations!",
+    "you_have_finished": "You have successfully completed the exercise. Now you can continue practicing or return to the main page.",
+    "home": "Home",
+    "exercise_audio_idenfification_hint": "Play the audio and indicate what it means",
+    "exercise_text_idenfification_hint": "Indicate what it means",
+    "write_us": "Write to us",
+    "feedback": "We are gradually expanding the exercise, let us know if you find a mistake or have an idea for improvement.",
+    "size_setup": "Set your workout length",
+    "restart": "Start again",
+    "change_settings": "Change Settings"
+  },
+  "export_translations": {
+    "download_phrases": "Download Phrases",
+    "export_phrases": "Export Phrases",
+    "export": "Export",
+    "comma": "comma",
+    "semicolon": "semicolon",
+    "new_line": "new line",
+    "custom": "own",
+    "tab": "tab",
+    "between_phrase_and_translation": "Between phrase and translation",
+    "between_phrases": "Between phrases",
+    "sharing_info": "You can use the content for your students for free and without restrictions, you can distribute it further only under the terms of the license ",
+    "copy_to_clipboard": "Copy phrases to clipboard",
+    "preview": "Preview",
+    "transcriptions": "Transcription",
+    "include_transcriptions": "Write phrases in both alphabets",
+    "all_phrases": "all phrases",
+    "subtitle_note": "You can download the phrases in your preferred format and import them into your notes or language learning applications such as Quizlet or Anki."
+  },
+  "errors": {
+    "pageNotFound": "Page not found"
+  },
+  "utils": {
+    "play": "play",
+    "new_game": "New Game"
+  },
+  "apps": {
+    "download_app": "Download Movapp Mobile App",
+    "android_soon": "Android version coming soon!",
+    "play": "play",
+    "new_game": "New Game"
+  },
+  "christmas_banner": {
+    "christmas_dictionary_title": "Christmas Dictionary",
+    "christmas_dictionary_description": "Christmas, Christmas is coming and with it our Christmas themed dictionary.",
+    "christmas_dictionary_link": "/dictionary#vacation",
+    "winter_dictionary_title": "Winter Dictionary",
+    "winter_dictionary_description": "It's going to be cold, it's going to be freezing. A dictionary that will come in handy in winter.",
+    "winter_dictionary_link": "/dictionary#zima",
+    "christmas_images_title": "Christmas Images",
+    "christmas_images_description": "Get into the Christmas spirit through fun images.",
+    "christmas_images_link": {
+      "cs": "/kids#carp"
+    },
+    "christmas_BrainVita_title": "Christmas BrainVita",
+    "christmas_BrainVita_description": "Practice vocabulary in the popular Christmas picture game.",
+    "christmas_BrainVita_link": "/kids/memory-game",
+    "christmas_tale_title": "Christmas Tale",
+    "christmas_tale_description": "Was it not? What was it like? You can read about it in our Christmas tale.",
+    "christmas_tale_link": "",
+    "team": "Our team",
+    "team_link": "https://data.movapp.eu/images/team/large-team-photo-autumn.jpg",
+    "wishing": "Wishing you a Merry Christmas and a Happy New Year 2023."
+  },
+  "easter_banner": {
+    "box_easter_dictionary_title": "Easter Dictionary",
+    "box_easter_dictionary_description": "Feasts, feasts, accompaniments, paint eggs and learn Easter phrases.",
+    "box_easter_dictionary_anchor": {
+      "cs": "Easter"
+    },
+    "box_easter_kids_title": "Easter for Kids",
+    "box_easter_kids_description": "Fun Easter themed pictures and coloring pages.",
+    "box_easter_kids_anchor": {
+      "cs": "Kraslice"
+    }
+  },
+  "kiosk": {
+    "stayOnPage": "Stay On Page",
+    "stillHere": "Are you still here?"
+  }
+}

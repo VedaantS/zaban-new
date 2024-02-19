@@ -1,0 +1,259 @@
+{
+  "header": {
+    "vocabulary_link_name": "Rozmówki",
+    "forkids_link_name": "Dla dzieci",
+    "forkids_words": "Słówka",
+    "forkids_memorygame": "Memory",
+    "forkids_imagequiz": "Quiz obrazkowy",
+    "wiki_link_name": "Wiki",
+    "exercises_link_name": "Ćwiczenia",
+    "about_link_name": "O nas",
+    "contacts_link_name": "Kontakty",
+    "alphabet_link_name": "Alfabet"
+  },
+  "footer": {
+    "join_development": "Dołącz do rozwoju na",
+    "licence_intro": "Zawartość tej strony jest dostępna na podstawie licencji",
+    "licence": "CC BY-NC 4.0 Międzynarodowa"
+  },
+  "homepage": {
+    "title": {
+      "pl": "Naucz się podstaw polskiego i ukraińskiego na codzienne życiowe sytuacje"
+    },
+    "box_dictionary_title": "Rozmówki",
+    "box_dictionary_description": "Naucz się setki podstawowych słówek i zwrotów przez czytanie i słuchanie. Słówka są posortowane według sytuacji w których są używane.",
+    "box_child_title": "Dla dzieci",
+    "box_child_memorygame": {
+      "pl": "Memory - ćwicz słówka w ulubionej grze!"
+    },
+    "box_child_description": {
+      "pl": "Ilustrowany ukraińsko-polski słownik z kartami gotowymi do wydrukowania"
+    },
+    "box_alphabet_title": {
+      "pl": "Alfabet ukraiński"
+    },
+    "box_alphabet_description": {
+      "pl": "Naucz się znaków ukraińskiej cyrylicy. Pomogą Ci przykładowe słowa."
+    },
+    "box_wiki_title": "Wiki",
+    "box_movapp_title": "Movapp to…",
+    "box_movapp_description_top": {
+      "pl": "мова [mova] znaczy język ukraiński. Movapp jest aplikacją do uczenia się języków. Celem Movapp jest ułatwić dogadanie się Polaków z Ukraińcami."
+    },
+    "box_movapp_description_bottom": {
+      "pl": "Znajdziesz tu zbiór postawowych zwrotów komunikacyjnych w językach polskim i ukraińskim. Za niedługo dodamy narzędzia do ich ćwiczenia, oraz zalinkujemy materiały do nauki."
+    },
+    "download_app": "Pobierz na komórkę",
+    "download_on": "Pobierz w",
+    "languages": "Movapp mówi innymi językami"
+  },
+  "dictionary_page": {
+    "title": {
+      "pl": "Rozmówki polsko-ukraińskie"
+    },
+    "description": {
+      "pl": "Ponad tysiąc polsko-ukraińskich słów i zwrotów. Przeglądaj je według kategorii lub użyj wyszukiwania. Z wymową pomogą Ci nagranie audio oraz transkrypcja alfabetu."
+    },
+    "search_button": "Szukaj",
+    "search_placeholder": "Wystarczy wpisać słowo z szukanego zwrotu",
+    "subtitle": "Wybierz kategorię",
+    "pl": "polski",
+    "uk": "ukraiński",
+    "results_subtitle": "Wyniki wyszukiwania",
+    "not_found_results": "Nic nie znaleziono",
+    "download_pdf": "Pobierz w PDF",
+    "first_exercise": "Ćwiczenia"
+  },
+  "kids_page": {
+    "downloadPDF": "Pobierz w PDF",
+    "downloadStory": ""
+  },
+  "about_page": {
+    "title": "<strong>Movapp.eu</strong> to projekt, który powstał w ramach inicjatywy <strong>Stojíme za Ukrajinou</strong> w społeczności ekspertów wolontariuszy <strong>Česko.Digital.</strong>",
+    "movapp_goal_title": "Nasz cel",
+    "movapp_goal_description": {
+      "pl": "Celem Movapp jest ułatwić dogadanie się Polaków z Ukraińcami. W pierwszej fazie opublikowany został zbiór podstawowych polsko-ukraińskich zwrotów. W następnych fazach stworzymy narzędzia do ich ćwiczenia, i chcemy stać się hubem narzędzi i materiałów, które pomogą z nauką polskiego i ukraińskiego."
+    },
+    "why_movapp_title": "Dlaczego Movapp?",
+    "why_movapp_mova": "<i>Mова [mowa]</i> znaczy po ukraińsku <i>język</i>. Movapp jest aplikacją do nauki języków.",
+    "why_movapp_description": "Movapp.eu jest dostępna za darmo jako otwarte oprogramowanie pod licencją MIT. To znaczy, że możesz ją nie tylko wykorzystywać, ale także zmieniać (jeśli umiesz programować)",
+    "why_movapp_license": "Teksty, obrazy oraz pliki audio Movapp są pod <0>licencją CC BY-NC 4.0</0>. (Uznanie autorstwa - Użycie niekomercyjne 4.0), co znaczy, że możesz je wykorzystywać na własne potrzeby bez żadnych ograniczeń. Gdybyś chciał/a je dalej dystrybuować (w oryginalnej lub edytowanej wersji), możesz to robić tylko w celach niekomercyjnych, i z uznaniem oryginalnych autorów.",
+    "why_movapp_origin": "Oryginalnymi autorkami <0>podstawowego zestawu słów i zwrotów</0> są Tereza Javornická i Yevheniia Valova (EDUA Group). Zestaw ten jest utrzymywany oraz dalej rozszerzany przez zespół Movapp.",
+    "media_mentions_title": "Pisali o nas",
+    "conferences_title": "Konferencje i wykłady",
+    "conferences_description": "Prezentacja Movapp.cz na LUkrainian Conference na Lancaster University (Wielka Brytania). <br/>- <0>1st LUkrainian Conference (22. 07. 2022)</0><br/>- <1>4th LUkrainian Conference (13. 01. 2023)</1>",
+    "our_team_title": "Nasz zespół",
+    "our_team_current_title": "Aktualny skład",
+    "our_team_spring_title": "Wiosna 2022",
+    "our_team_autumn_title": "Jesień 2022",
+    "our_team_description": "Głównymi członkami zespołu Movapp są: Martin Hassman, Oleg Antonyak, Tatiana Chytilová, Petr Illek, Valeriia Kuna i Monika Fabryová. Pomaga im szereg innych wolontariuszy.",
+    "our_team_contact": "Chcesz nam pomóc z treścią, albo przyłączyć się w inny sposób? <br/> Szukasz do nas <0>kontaktu</0>?",
+    "our_team_illustrators": "Autorkami ilustracji dla dzieci są: Alena Burneleit, Anna Lamberová, Lucie Lomová, Kateřina Vacková Mňuková i Marie Kraus.",
+    "stand_with_ukraine_title": "Stojíme za Ukrajinou",
+    "stand_with_ukraine_description": "<0>Stojíme za Ukrajinou</0> (Murem za Ukrainą) jest czeską inicjatywą wolontariuszy z przeróżnych organizacji i stowarzyszeń. Jesteśmy \"zwykłymi Kowalskimi\", którym nie jest obojętna sytuacja związana ze zbrojnym konfliktem prowadzonym przez Rosję przeciwko suwerennej, demokratycznej Ukrainie. Inicjatywa ta powstała naturalnie, pochodzi z długotrwałego wspierania Ukrainy po aneksji Krymu. Razem z eskalacją działań wojennych zaczęła być widoczna w przestrzeni publicznej 19 lutego 2022 roku, a od tego czasu organicznie rośnie.",
+    "czech_digital_title": "Česko.Digital",
+    "czech_digital_description": "<0>Česko.Digital</0> (Cyfrowe Czechy) jest czeską społecznością ekspertów wolontariuszy z wielu dziedzin - od IT przez prowadzenie projektów aż po marketing - którzy w swoim wolnym czasie pomagają państwu i organizacjom pozarządowym zmieniać Czechy na lepsze. Społeczność Česko.Digital załozyli w roku 2019 Jakub Nešetřil, Radka Horáková i Eva Pavlíková.",
+    "our_partners_title": "Nasi partnerzy",
+    "how_to_find_us_title": "Jak nas znaleźć",
+    "how_to_find_us_description": "Możesz nas wyszukać używając terminów <i>\"movapp\"</i>, <i>\"movaap\"</i> lub <i>\"mova app\"</i>. Jeśli piszesz o nas, użyj nazwy Movapp.",
+    "support_us_title": "Wspierać nas",
+    "support_us_description": "- Daj o nas znać Ukraińcom w Twojej okolicy (w pracy, szkole, rodzinom mieszkającym w Twoim domu) - możesz wykorzystać te <0>plakaty.</0><br/> - Śledź nas na mediach społecznościowych i pomóż nam rozpowszechniać informacje (listę mediów znajdziesz na stronie <1>kontakty</1>, i pomóż nam rozpowszechniać informacje. <br/> - Jeśli masz więcej czasu (2 lub więcej godzin tygodniowo), możesz do nas dołączyć. Listę stanowisk, na które aktualnie szukamy wolontariuszy, znajdziesz <2>tutaj</2>. Skontaktować się z nami możesz <3>mailowo</3> bądź przez <4>Slacka Česko.Digital.</4>",
+    "how_we_prepared_content_title": "Jak przygotowujemy treść do nauki języka?",
+    "how_we_prepared_content_description": "Treść pojawiająca się na stronach Movapp jest tworzona przez wielu wolontariuszy, pomiędzy którymi znajdują się także profesjonaliści językowi. W tworzeniu tekstów jest czasami wykorzystywana również AI (sztuczna inteligencja, np. <0>ChatGPT</0>), teksty są ale zawsze sprawdzane przez native speakerów.Nagrania audio są generowane za pomocą <1>Azure Cognitive Services</1> i następnie sprawdzane przez native speakerów. W przypadku błędów, które program popełni, staramy się je rozwiązać. W niektórych przypadkach jest to skomplikowane i czasem nawet niemożliwe. Słabsze wsparcie języka ukraińskiego w Azure Cognitive Services powoduje sporadycznie błędny akcent oraz wymowę ukraińskiej spółgłoski <i>\"g\"</i> jako <i>\"h\"</i>. Jesteśmy świadomi tego problemu i szukamy rozwiązania. Jeśli jednak oprócz tego znajdziecie błąd (albo macie podejrzenie, że odkryliście błąd), prosimy o kontakt przez nasz formularz „Znaleźliście błąd lub macie propozycję dotyczące poprawy?” poniżej na naszej stronie internetowej. W ten sposób możecie również wy przyczynić się do poprawy Movapp. Dziękujemy!" 
+  },
+  "contacts_page": {
+    "title": "Kontakty",
+    "email_contact_title": "Email kontaktowy:",
+    "email_contact_link": "pryvit@movapp.cz",
+    "social_media": {
+      "social_media_title": "Znajdziesz nas także na sieciach społecznościowych:"
+    },
+    "community_description": "Projekt Movapp jest rozwijany przez społeczność ekspertów wolontariuszy <0>Česko.Digital.</0>",
+    "join_title": "Dołącz do nas",
+    "join_description": "Jeśli chcesz stać się członkiem naszego zespołu wolontariuszy i pomagać nam w dalszym rozwoju projektu, wypełnij formularz na <0>cesko.digital/join</0>, i dołącz do naszego Slacku. Znajdziesz nas w kanale <strong>ua-movapp</strong> (mówimy głównie po czesku, słowacku i angielsku, ale też trochę po ukraińsku i polsku.)"
+  },
+  "alphabet_page": {
+    "pl": {
+      "name": "Alfabet polski",
+      "description": "Naucz się alfabetu polskiego. Składa się z 23 liter alfabetu łacińskiego uzupełnionych 4 znakami diakrytycznymi."
+    },
+    "uk": {
+      "name": "Alfabet ukraiński",
+      "description": "Naucz się alfabetu ukraińskiego. Jest również nazywany cyrylicą ukraińską lub ukraińską azbuką. Zawiera 33 znaki."
+    },
+    "download": "Alfabet można <0>pobrać w formacie PDF</0>."
+  },
+  "seo": {
+    "homepage_page_title": {
+      "pl": "Movapp.eu - żeby się Polacy i Ukraińcy łatwo dogadali"
+    },
+    "homepage_page_description": {
+      "pl": "Przegląd podstawowych polsko-ukraińskich zwrotów, oraz narzędzia do ich ćwiczenia. Zbiór materiałów do nauki. Stworzono z miłością."
+    },
+    "dictionary_page_title": {
+      "pl": "Słownik ukraińsko-polski | Movapp.eu"
+    },
+    "dictionary_page_description": {
+      "pl": "Podstawowe polsko-ukraińskie słówka i zwroty podzielone według sytuacji życiowych. Stworzono z miłością."
+    },
+    "contacts_page_title": "Kontakt | Movapp.eu",
+    "contacts_page_description": "Chcesz stać się członkiem zespołu i pomagać przy dalszym rozwoju projektu?",
+    "about_page_title": "O nas | Movapp.eu",
+    "about_page_description": "Projekt powstał w ramach inicjatywy Stojíme za Ukrajinou w społeczności woluntariuszy ekspertów Česko.Digital.",
+    "alphabet_page_title": "Alfabet ukraiński (cyrilica)",
+    "alphabet_page_description": "Naucz się ukraińskiego alfabetu. Nazywa się on także ukraińska cyrylica lub ukraińska azbuka. Zawiera 33 znaki i apostrof.",
+    "kids_page_title": {
+      "pl": "Ilustrowany słownik ukraińsko-polski dla dzieci | pl.movapp.eu"
+    },
+    "kids_page_description": {
+      "pl": "Zdjęcia dla dzieci z opisem ukraińskim i polskim. Używany po słowacku i ukraińsku. Wydrukuj kolorowanki dla dzieci."
+    },
+    "kids_page_storiesTitle": {
+      "pl": "Dwujęzyczne opowiadania po polsku i ukraińsku online."
+    },
+    "kids_page_storiesTitlePdf": {
+      "pl": "Czytaj polskich i ukraińskich opowieści ludowych"
+    },
+    "kids_page_storiesDescription": {
+      "pl": "Posłuchaj i przeczytaj ukraińskie opowiadania dla dzieci. Adaptowane dwujęzyczne opowiadania z lektorem dla łatwego nauczenia się."
+    },
+    "kids_page_memorygame_title": {
+      "pl": "Zagraj w mówiące memory z ukraińskimi i polskimi słówkami"
+    },
+    "kids_page_memorygame_description": {
+      "pl": "Ukraińsko-polskie mówiące memory dla dzieci z ilustracjami."
+    },
+    "kids_page_imagequiz_title": {
+      "pl": "Zagraj w obrazkowy quiz z ukraińskimi słówkami"
+    },
+    "kids_page_imagequiz_description": {
+      "pl": "Zagraj w obrazkowy quiz z ukraińskimi słówkami"
+    },
+    "exercise_page_title": {
+      "pl": "Przećwicz swój ukraiński."
+    },
+    "exercise_page_description": {
+      "pl": "Polepsz swoje umiejętności językowe. Oferujemy darmowy zestaw ćwiczeń do nauki języka. Powtarzaj codziennie."
+    }
+  },
+  "exercise_page": {
+    "game_description": "Wybierz jeden lub więcej tematów i możesz zaczynać.",
+    "play_the_game": "Zacznij",
+    "select_all": "Zaznacz wszystkie",
+    "clear_all": "Wyczyść wszystkie",
+    "pick_random": "Wybierz losowo",
+    "next": "Kontynuuj",
+    "congratulations": "Gratulacje!",
+    "you_have_finished": "Ćwiczenie zostało ukończone pomyślnie. Teraz możesz ćwiczyć dalej, albo wrócić z powrotem na stronę główną.",
+    "home": "Z powrotem",
+    "exercise_audio_idenfification_hint": "Odsłuchaj nagranie i zaznacz usłyszaną odpowiedź",
+    "exercise_text_idenfification_hint": "Zaznacz usłyszaną odpowiedź",
+    "write_us": "Napisz do nas",
+    "feedback": "Zestaw ćwiczeń stopniowo poszerzamy. Daj nam wiedzieć, jeśli znajdziesz gdzieś błąd lub wpadniesz na pomysł, co możemy polepszyć.",
+    "size_setup": "Ustaw długość ćwiczenia",
+    "restart": "Powtórz",
+    "change_settings": "Zmiana ustawień"
+  },
+  "export_translations": {
+    "download_phrases": "Pobierz zwroty",
+    "export_phrases": "Eksport zwroty",
+    "export": "Eksport",
+    "comma": "przecinek",
+    "semicolon": "średnik",
+    "new_line": "nowa linijka",
+    "custom": "własny",
+    "tab": "tabulator",
+    "between_phrase_and_translation": "Między zwrotem a tłumaczeniem",
+    "between_phrases": "Między zwrotami",
+    "sharing_info": "Zawartość możesz wykorzystywać do celów prywatnych za darmo i bez ograniczeń, natomiast rozpowszechniać ją możesz tylko kierując się warunkami licencji ",
+    "copy_to_clipboard": "Skopiuj zwroty do schowka",
+    "preview": "Podgląd",
+    "transcriptions": "Transkrypcja",
+    "include_transcriptions": "Zapisuj zwroty w obu alfabetach",
+    "all_phrases": "wszystkie zwroty",
+    "subtitle_note": "Możesz pobrać frazy w preferowanym formacie i zaimportować je do swoich notatek lub aplikacji do nauki języków, takich jak Quizlet lub Anki."
+  },
+  "errors": {
+    "pageNotFound": "Strona nie została znaleziona"
+  },
+  "apps": {
+    "download_app": "Pobierz Movapp jako aplikację mobilną",
+    "android_soon": "Wersja na Androida już wkrótce!"
+  },
+  "utils": {
+    "play": "odtwarzanie",
+    "new_game": "Nowa gra"
+  },
+  "christmas_banner": {
+    "christmas_dictionary_title": "Słowniczek bożonarodzeniowy",
+    "christmas_dictionary_description": "Święta, święta przychodzą, a z nimi i nasz słowniczek o tematyce bożonarodzeniowej",
+    "christmas_dictionary_link": "/dictionary#boze_narodzenie",
+    "winter_dictionary_title": "Słowniczek zimowy",
+    "winter_dictionary_description": "Będzie zimno, będzie mróz. Słowniczek, który Ci się w zimie przyda.",
+    "winter_dictionary_link": "/dictionary#zima",
+    "christmas_images_title": "Obrazki bożonarodzeniowe",
+    "christmas_images_description": "Poczuj świąteczną atmosferę dzięki śmiesznym obrazkom.",
+    "christmas_images_link": {
+      "pl": "/kids#karp"
+    },
+    "christmas_pexeso_title": "Bożonarodzeniowe memory",
+    "christmas_pexeso_description": "Ćwicz słówka w ulubionej grze z świątecznymi obrazkami.",
+    "christmas_pexeso_link": "/kids/memory-game",
+    "christmas_tale_title": "",
+    "christmas_tale_description": "",
+    "christmas_tale_link": "",
+    "team": "Nasz zespół",
+    "team_link": "https://data.movapp.eu/images/team/large-team-photo-autumn.jpg",
+    "wishing": "życzy Wam wesołych Świąt i szczęśliwego Nowego Roku 2023."
+  },
+  "easter_banner": {
+    "box_easter_dictionary_title": "Wielkanocny słowniczek",
+    "box_easter_dictionary_description": "Mówi zając do baranka, jaka piękna ta pisanka, wtem z jajeczka wyszła kurka i zaczęła uczyć się wielkanocnych zwrotów.",
+    "box_easter_dictionary_anchor": { "pl": "swieta_wielkanocne" },
+    "box_easter_kids_title": "Wielkanoc dla dzieci",
+    "box_easter_kids_description": "Zabawne obrazki i kolorowanki o tematyce wielkanocnej.",
+    "box_easter_kids_anchor": {
+      "pl": "pisanka"
+    }
+  }
+}
