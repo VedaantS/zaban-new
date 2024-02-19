@@ -59,7 +59,7 @@ const Wiki = ({ markdown }: InferGetStaticPropsType<typeof getStaticProps>) => {
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const getWikiPage = async (article: string) => {
     console.log('article:' + sanitizeWikiParam(article));
-    const response = await fetch(`http://0.0.0.0:10000/wiki/${sanitizeWikiParam(article)}.md`);
+    const response = await fetch(`http://factfully.riverdale.edu/wiki/${sanitizeWikiParam(article)}.md`);
     const markdown = await response.text();
     return markdown;
   };

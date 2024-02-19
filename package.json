@@ -13,7 +13,7 @@
     "test": "jest",
     "test:e2e": "cypress run",
     "test:e2e:open": "cypress open",
-    "postbuild": "yarn generate-pdfs && next-sitemap",
+    "postbuild": "next-sitemap",
     "ts-watch": "npx tsc --noEmit --incremental --watch --preserveWatchOutput",
     "generate-pdfs": "ts-node --skip-project utils/exportPdfs.ts",
     "ci:build": "next build && next-sitemap"
