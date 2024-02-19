@@ -1,7 +1,7 @@
 import { getCountryVariant, Language, CountryVariant } from './locales';
 import fetch from 'node-fetch';
 
-const BASE_API_URL = 'https://factfully.riverdale.edu';
+const BASE_API_URL = 'https://factfully.riverdale.edu/data/';
 export const KIDS_CATEGORY_ID = 'recSHyEn6N0hAqUBp';
 
 /**
