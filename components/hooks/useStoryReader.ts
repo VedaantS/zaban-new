@@ -16,7 +16,7 @@ export const useStoryReader = (id: string) => {
   const [languagePlay, setLanguagePlay] = useState<Language>(otherLanguage);
 
   const audio = useRef<HTMLAudioElement | null>(null);
-  const source = `http://0.0.0.0:10000/bilingual-reading/${id}-${languagePlay}.mp3`;
+  const source = `https://factfully.riverdale.edu/bilingual-reading/${id}-${languagePlay}.mp3`;
   const playStory: VoidFunction = useCallback(() => {
     // console.dir(audio.current)
     if (audio.current !== null) {
