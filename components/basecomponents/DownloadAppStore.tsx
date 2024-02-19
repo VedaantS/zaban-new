@@ -1,7 +1,7 @@
 import { useTranslation } from 'next-i18next';
 import { AiFillApple } from 'react-icons/ai';
 
-export const DOWNLOAD_IOS_URL = 'https://apps.apple.com/app/apple-store/id1617768476?pt=124252508&ct=web-movappcz&mt=8';
+export const DOWNLOAD_IOS_URL = 'https://hyello.com';
 
 export const DownloadAppStore = () => {
   const { t } = useTranslation();
