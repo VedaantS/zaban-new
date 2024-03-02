@@ -1,7 +1,7 @@
 import { getCountryVariant, Language, CountryVariant } from './locales';
 import fetch from 'node-fetch';
 
-const BASE_API_URL = 'https://nova-is-better-fr.s3.amazonaws.com/';
+const BASE_API_URL = 'https://nova-is-better-fr.s3.amazonaws.com';
 export const KIDS_CATEGORY_ID = 'recSHyEn6N0hAqUBp';
 
 /**
