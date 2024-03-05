@@ -33,10 +33,9 @@ export const Footer = () => {
             );
           })}
         </div>
-        <Feedback />
         <p className="text-primary-black text-center text-xs pt-6">
           {t('footer.join_development')}{' '}
-          <a href={'https://github.com/cesko-digital/movapp'} target={'_blank'} className="underline" rel="noopener">
+          <a href={'https://github.com/vedaants/zaban-new'} target={'_blank'} className="underline" rel="noopener">
             GitHub
           </a>{' '}
           | {t('footer.licence_intro')}{' '}
