@@ -17,27 +17,27 @@ export const SocialMedia = ({ className }: Props): JSX.Element => (
 const socialMedia: { name: string; link: string; img: string }[] = [
   {
     name: 'Facebook',
-    link: 'https://www.facebook.com/zaban',
+    link: 'https://www.facebook.com/zabanindia',
     img: '/icons/socials/facebook.svg',
   },
   {
     name: 'Instagram',
-    link: 'https://www.instagram.com/zaban/',
+    link: 'https://www.instagram.com/zabanindia/',
     img: '/icons/socials/instagram.svg',
   },
   {
     name: 'Twitter',
-    link: 'https://twitter.com/zaban',
+    link: 'https://twitter.com/zabanindia',
     img: '/icons/socials/twitter.svg',
   },
   {
     name: 'LinkedIn',
-    link: 'https://www.linkedin.com/company/zaban/',
+    link: 'https://www.linkedin.com/company/zabanindia/',
     img: '/icons/socials/linkedin.svg',
   },
   {
     name: 'Telegram',
-    link: 'https://t.me/zaban',
+    link: 'https://t.me/zabanindia',
     img: '/icons/socials/telegram.svg',
   },
 ];
