@@ -17,7 +17,7 @@ export const Footer = () => {
   return (
     <footer className="bg-primary-yellow">
       <div className="max-w-4xl m-auto p-2 sm:py-5 ">
-        <p className="text-primary-black text-center font-black text-xl sm:text-2xl mt-2 sm:mt-4 mb-2 sm:mb-6">#EkDuniyaEkParivar</p>
+        <p className="text-primary-black text-center font-black text-xl sm:text-2xl mt-2 sm:mt-4 mb-2 sm:mb-6">Connecting millions of rural Indians to the rest of the world, one word at a time.</p>
         <div className="text-center">
           <SocialMedia />
         </div>
@@ -26,8 +26,8 @@ export const Footer = () => {
             return (
               <a key={index} href={link} target={'_blank'} className="sm:w-2/6" rel="noopener">
                 <div className="py-1">
-                  <p className="text-primary-black text-center text-sm sm:text-base font-bold my-2">{title}</p>
-                  <p className="text-primary-black text-center font-light text-xs sm:text-sm">{description}</p>
+                  {/* <p className="text-primary-black text-center text-sm sm:text-base font-bold my-2">{title}</p>
+                  <p className="text-primary-black text-center font-light text-xs sm:text-sm">{description}</p> */}
                 </div>
               </a>
             );
