@@ -138,12 +138,6 @@ const Dictionary = ({ dictionary }: InferGetStaticPropsType<typeof getStaticProp
                     ariaId={category.nameMain}
                     category={category}
                   >
-                    <div
-                      className="mb-4 mx-4"
-                      onClick={() => {
-                        handleDownloadPdfs(plausible, currentLanguage, filePathDictionary, 'dictionary');
-                      }}
-                    >
                       <ExportTranslations category={category} />
                       <TextLink
                         href={filePathDictionary}
