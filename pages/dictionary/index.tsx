@@ -146,15 +146,6 @@ const Dictionary = ({ dictionary }: InferGetStaticPropsType<typeof getStaticProp
                     >
                       <ExportTranslations category={category} />
                       <TextLink
-                        href={filePathDictionary}
-                        target="_blank"
-                        className="ml-3 inline-flex gap-x-1 items-center"
-                        locale={getCountryVariant()}
-                      >
-                        <AiOutlineFilePdf className="w-5 h-5" />
-                        {t('dictionary_page.download_pdf')}
-                      </TextLink>
-                      <TextLink
                         href={{ pathname: `/exercise/${category.id}`, query: { quickStart: true } }}
                         target="_blank"
                         className="ml-3 inline-flex gap-x-1 items-center"
