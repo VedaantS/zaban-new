@@ -54,7 +54,7 @@ module.exports = {
     // add pdf files to sitemap
     pdfFiles.forEach(async (file) => {
       if (file !== '.gitkeep') {
-        result.push(await config.transform(config, `${SITE_URLS[countryVariant]}/pdf/${encodeURIComponent(file)}`));
+        result.push(await config.transform(config, `${SITE_URLS[countryVariant]}/pdf/${encodeURIComponent(file)}hello`));
       }
     });
 
