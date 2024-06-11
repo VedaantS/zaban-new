@@ -115,12 +115,6 @@ const Dictionary = ({ dictionary }: InferGetStaticPropsType<typeof getStaticProp
               {t('dictionary_page.search_button')}
             </Button>
           </div>
-          <div
-                      className="mb-4 mx-4"
-                      onClick={() => {
-                        handleDownloadPdfs(plausible, currentLanguage, filePathDictionary, 'dictionary');
-                      }}
-                    >
           <ExportTranslations
             category={categories}
             customName={t('export_translations.all_phrases')}
@@ -144,6 +138,12 @@ const Dictionary = ({ dictionary }: InferGetStaticPropsType<typeof getStaticProp
                     ariaId={category.nameMain}
                     category={category}
                   >
+                    <div
+                      className="mb-4 mx-4"
+                      onClick={() => {
+                        handleDownloadPdfs(plausible, currentLanguage, filePathDictionary, 'dictionary');
+                      }}
+                    >
                       <ExportTranslations category={category} />
                       <TextLink
                         href={filePathDictionary}
