@@ -67,18 +67,18 @@
     "uk": "Hindi",
     "results_subtitle": "Search Results",
     "not_found_results": "Nothing found",
-    "download_pdf": "Download in PDF",
+    "download_pdf": "",
     "first_exercise": "Exercise"
   },
   "kids_page": {
-    "downloadPDF": "Download in PDF",
+    "downloadPDF": "",
     "playStory": "Play and read the story",
     "czechStories": "English folk tales",
     "slovakStories": "Slovak Folk Tales",
     "ukrainianStories": "Hindi folk tales",
     "stories": "Fairytales",
     "homepage": "Main Page",
-    "downloadStory": "You can <0>download the story as a PDF</0>."
+    "downloadStory": ""
   },
   "about_page": {
     "title": "<strong>Zaban</strong> is the only language app designed specifically for rural Indians to learn English.",
@@ -135,7 +135,7 @@
       "name": "Hindi Alphabet",
       "description": "Learn the Hindi alphabet. Also called Hindi Devanagari, this script is actually considered an 'abugida'. Contains 46 characters."
     },
-    "download": "You can <0>download the alphabet as a PDF</0>."
+    "download": ""
   },
   "seo": {
     "homepage_page_title": {
